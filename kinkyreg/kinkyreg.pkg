@@ -1,5 +1,10 @@
-d 'DEA': Data envelopment analysis
+d 'kinkyreg': Instrument free inference for linear regression models with endogenous regressors Use kinkyreg With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f kinkyreg.ado
+f kinkyreg.sthlp
+f kinkyreg2dta.ado
+f kinkyreg2dta.sthlp
+f kinkyreg_estat.ado
+f kinkyreg_p.ado
+f kinkyreg_postestimation.sthlp
+f lkinkyreg.mlib
