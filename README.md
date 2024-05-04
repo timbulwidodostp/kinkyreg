@@ -3,6 +3,8 @@ Instrument free inference for linear regression models with endogenous regressor
 
 Kinky least squares estimation and inference Use kinkyreg With STATA 18
 
+https://www.youtube.com/watch?v=XJBtEdg7UUw
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
